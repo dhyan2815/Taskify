@@ -1,4 +1,4 @@
-# Taskify - React To-Do App
+# Taskify - To-Do App
 
 A simple, interactive to-do list app built with React that helps users manage their tasks efficiently. The app allows users to create, edit, delete, and mark tasks as completed.
 
