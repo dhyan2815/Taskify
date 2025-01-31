@@ -9,10 +9,6 @@ A simple, interactive to-do list app built with React that helps users manage th
 - **Delete Task**: Remove tasks you no longer need.
 - **Completed Tasks**: View and manage tasks marked as completed.
 
-## Demo
-
-You can view the live demo of this app [here](#). *(If deployed, add the link to the live demo.)*
-
 ## Tech Stack
 
 - **React.js**: Frontend framework for building the user interface.
